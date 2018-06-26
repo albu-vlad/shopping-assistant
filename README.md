@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-![Shopping_assistant demo](![LalaBox demo](https://github.com/albu-vlad/lalabox/blob/master/Demo/Demo.png)
+![Shopping_assistant demo](https://github.com/albu-vlad/shopping-assistant/blob/master/Demo/shopping-assistant.png)
 
 ## Getting Started
 
