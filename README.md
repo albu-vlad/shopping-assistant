@@ -1,6 +1,8 @@
-# shopping_assistant
+# Shopping Assistant
 
 A new Flutter application.
+
+![Shopping_assistant demo](![LalaBox demo](https://github.com/albu-vlad/lalabox/blob/master/Demo/Demo.png)
 
 ## Getting Started
 
